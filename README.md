@@ -22,4 +22,4 @@ https://github.com/htariku/workday-scheduler
 Helen Tariku
 
 ## ScreenShot: 
-<img width="1005" alt="Screen Shot 2021-12-17 at 1 54 39 PM" src="https://user-images.githubusercontent.com/94089824/146594062-8224bd3f-6822-42b7-b93d-0276fa153281.png">
+<img width="1409" alt="Screen Shot 2021-12-17 at 2 25 48 PM" src="https://user-images.githubusercontent.com/94089824/146597388-e9f9eb75-776b-4d34-a367-a050b2d8194e.png">

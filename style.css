@@ -1,3 +1,4 @@
+/* google fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
@@ -9,6 +10,7 @@ body {
 }
 #currentDay {
   font-size: 50px;
+  /* gradient texts */
   background: -webkit-linear-gradient(rgb(24, 170, 214), rgb(153, 179, 190));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
