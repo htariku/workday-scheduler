@@ -12,6 +12,7 @@ body {
   font-size: 50px;
   /* gradient texts */
   background: -webkit-linear-gradient(rgb(24, 170, 214), rgb(153, 179, 190));
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
