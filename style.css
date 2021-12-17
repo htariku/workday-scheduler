@@ -1,21 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Press+Start+2P&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Press+Start+2P&family=Unica+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
 
-header h1 {
+body {
   font-family: 'Bangers', cursive;
   font-size: 16px;
   line-height: 1;
 }
-body {
-  font-family: 'Unica One', cursive;
-  font-size: 16px;
-  line-height: 1;
-}
 #currentDay {
-  font-family: 'Press Start 2P', cursive;
-  font-size: 16px;
-  line-height: 1;
+  font-size: 50px;
+  background: -webkit-linear-gradient(rgb(24, 170, 214), rgb(153, 179, 190));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 textarea{

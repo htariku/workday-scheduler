@@ -10,7 +10,7 @@
 - JQuery 
 
 ## Instructions:
-Create a calander application, that is powered by JQuery, that will allow a user to save events for each hour of the their day. The calender is presented in blocks and is color coded to indicate past, present, and future tasks/events. 
+Create a calander application, that is powered by JQuery, that will allow a user to save events for each hour of their day. The calender is presented in blocks and is color coded to indicate past, present, and future tasks/events. 
 
 ## Deployed URL:
  https://htariku.github.io/workday-scheduler/
